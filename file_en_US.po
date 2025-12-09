@@ -1,8 +1,1 @@
-msgid ""
-msgstr ""
-msgid "wwww_1"
-msgstr "wwww"
-msgid "22222_2"
-msgstr "22222"
-msgid "FINAL_3"
-msgstr "FINAL"
+
